@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\bin\Debug\netcoreapp3.1\DateLesson.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\bin\Debug\netcoreapp3.1\DateLesson.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\bin\Debug\netcoreapp3.1\DateLesson.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\bin\Debug\netcoreapp3.1\DateLesson.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\bin\Debug\netcoreapp3.1\DateLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\bin\Debug\netcoreapp3.1\DateLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\DateLesson\obj\Debug\netcoreapp3.1\DateLesson.genruntimeconfig.cache

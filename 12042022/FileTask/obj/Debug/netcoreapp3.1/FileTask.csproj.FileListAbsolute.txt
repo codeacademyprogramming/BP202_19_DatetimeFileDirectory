@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\bin\Debug\netcoreapp3.1\FileTask.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\bin\Debug\netcoreapp3.1\FileTask.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\bin\Debug\netcoreapp3.1\FileTask.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\bin\Debug\netcoreapp3.1\FileTask.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\bin\Debug\netcoreapp3.1\FileTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\bin\Debug\netcoreapp3.1\FileTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\22. 12042022\12042022\FileTask\obj\Debug\netcoreapp3.1\FileTask.genruntimeconfig.cache

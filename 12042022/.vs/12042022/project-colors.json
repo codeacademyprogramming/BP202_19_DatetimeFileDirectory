@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "826ba0e7-f717-4750-8bd4-fdc1346e2d80": {
+      "ProjectGuid": "826ba0e7-f717-4750-8bd4-fdc1346e2d80",
+      "DisplayName": "DateLesson",
+      "ColorIndex": 0
+    },
+    "d47903cc-5240-4705-bbae-a8079efee34d": {
+      "ProjectGuid": "d47903cc-5240-4705-bbae-a8079efee34d",
+      "DisplayName": "FileLesson",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a5106dca-07ce-48c9-8d4c-6063b7972a3d": {
+      "ProjectGuid": "a5106dca-07ce-48c9-8d4c-6063b7972a3d",
+      "DisplayName": "FileTask",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
